@@ -1,0 +1,7 @@
+
+j
+java:S1128"MRemove this unused import 'org.apache.kafka.clients.producer.ProducerConfig'.(ýä¢ó8ŸŒ¨”½1
+p
+java:S1128"SRemove this unused import 'org.apache.kafka.common.serialization.StringSerializer'.(Þ ¾þ8ŸŒ¨”½1
+z
+java:S1128"XRemove this unused import 'org.springframework.kafka.support.serializer.JsonSerializer'.(šÙÚíøÿÿÿÿ8 Œ¨”½1
